@@ -49,13 +49,7 @@
 
 Watch the full system demonstration showcasing all features:
 
-<div align="center">
-  <video src="https://github.com/Farbricated/DL-OS/assets/DL-OS.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-> **Note:** Click the play button above to watch the demo. If the video doesn't load, [watch on Google Drive](https://drive.google.com/file/d/1klSU4xGb2WiiAKovaCVZZiO2vt2voKRc/view?usp=sharing).
+[![DI-OS Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1klSU4xGb2WiiAKovaCVZZiO2vt2voKRc/view?usp=sharing)
 
 ### Live Interactive Demo
 
